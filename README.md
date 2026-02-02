@@ -46,9 +46,9 @@ online-retail-sales-analysis/
 │ └── processed/ # Cleaned datasets
 │
 ├── notebooks/
-│ ├── 01_salesData.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ └── 03_eda.ipynb
+│ ├── 01_salesData.ipynb # Data understanding & validation
+│ ├── 02_data_cleaning.ipynb # Data cleaning & preparation
+│ └── 03_eda.ipynb # Exploratory data analysis
 │
 └── README.md
 
