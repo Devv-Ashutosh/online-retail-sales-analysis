@@ -38,19 +38,7 @@ The analysis was carried out in the following steps:
 - Customer-level concentration is moderate (top 10 customers contribute ~17.3%)
 - Revenue risk is primarily geographic rather than product- or customer-driven
 
-## Project Structure
-online-retail-sales-analysis/
-│
-├── data/
-│ ├── raw/ # Original dataset
-│ └── processed/ # Cleaned datasets
-│
-├── notebooks/
-│ ├── 01_salesData.ipynb # Data understanding & validation
-│ ├── 02_data_cleaning.ipynb # Data cleaning & preparation
-│ └── 03_eda.ipynb # Exploratory data analysis
-│
-└── README.md
+
 
 ## Tools Used
 - Python
